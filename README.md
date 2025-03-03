@@ -8,7 +8,7 @@ Um aplicativo simples de lista de tarefas, onde você pode adicionar, visualizar
 - **Frontend:** React + Vite + TypeScript + Styled Components
 - **Backend:** Node.js + Express
 - **Banco de Dados:** MySQL
-Opcional: Docker para rodar a aplicação sem precisar de instalação de bibliotecas
+- Opcional: Docker para rodar a aplicação sem precisar de instalação de bibliotecas
 
 
 ## ⚙️ Configuração do projeto
@@ -41,9 +41,9 @@ CREATE TABLE tarefas (
    npm run dev
 ```
 ##  🌐 Rotas da API
-GET /tarefas - Lista todas as tarefas
-POST /tarefas - Cria uma nova tarefa
-DELETE /tarefas/:id - Exclui uma tarefa
+- GET /tarefas - Lista todas as tarefas
+- POST /tarefas - Cria uma nova tarefa
+- DELETE /tarefas/:id - Exclui uma tarefa
 
 
 ## ✨ Funcionalidades
